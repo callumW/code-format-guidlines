@@ -1,6 +1,7 @@
 ﻿---
 AllowShortBlocksOnASingleLine: 'false'
 AllowShortCaseLabelsOnASingleLine: 'false'
+AlwaysBreakTemplateDeclarations: 'Yes'
 BreakBeforeBraces: Stroustrup
 BreakConstructorInitializers: BeforeColon
 ColumnLimit: '100'
