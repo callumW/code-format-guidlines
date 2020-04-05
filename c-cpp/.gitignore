@@ -1,0 +1,3 @@
+# Ignore compiler files
+*.o
+*.out
