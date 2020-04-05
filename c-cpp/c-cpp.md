@@ -4,6 +4,9 @@ See example.cpp for a simple example of the style I use.
 ```.clang-format``` is a [clang-format](https://clang.llvm.org/docs/ClangFormat.html) style file containing the rules for spacing, indentation, max
 line width etc.
 
+You can format example.cpp with ```clang-format -i example.cpp``` (this will automatically load the
+.clang-format file)
+
 ## Naming Conventions/Style
 ### Variables
 Variables should be snake case: ```int my_var = 0;```
