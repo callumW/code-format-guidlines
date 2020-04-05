@@ -1,10 +1,12 @@
 ﻿---
 AccessModifierOffset: '-4'
+AlignTrailingComments: 'false'
+AllowAllConstructorInitializersOnNextLine: 'false'
 AllowShortBlocksOnASingleLine: 'false'
 AllowShortCaseLabelsOnASingleLine: 'false'
 AlwaysBreakTemplateDeclarations: 'Yes'
 BreakBeforeBraces: Stroustrup
-BreakConstructorInitializers: BeforeColon
+BreakConstructorInitializers: AfterColon
 ColumnLimit: '100'
 CompactNamespaces: 'false'
 ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
@@ -23,7 +25,7 @@ SpaceAfterLogicalNot: 'false'
 SpaceAfterTemplateKeyword: 'false'
 SpaceBeforeAssignmentOperators: 'true'
 SpaceBeforeCpp11BracedList: 'false'
-SpaceBeforeCtorInitializerColon: 'false'
+SpaceBeforeCtorInitializerColon: 'true'
 SpaceBeforeInheritanceColon: 'true'
 SpaceBeforeParens: ControlStatements
 SpaceInEmptyParentheses: 'false'
