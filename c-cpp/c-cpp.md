@@ -1,7 +1,7 @@
 # C/C++ Style Guidlines
 See example.cpp for a simple example of the style I use.
 
-```clang-format``` is a [clang-format](https://clang.llvm.org/docs/ClangFormat.html) style file containing the rules for spacing, indentation, max
+```.clang-format``` is a [clang-format](https://clang.llvm.org/docs/ClangFormat.html) style file containing the rules for spacing, indentation, max
 line width etc.
 
 ## Naming Conventions/Style
