@@ -6,3 +6,7 @@ which I use for my personal projects.
 
 ## Languages:
 * [C/C++](c-cpp/c-cpp.md)
+
+## License:
+This repo is under the [Unlicense](https://choosealicense.com/licenses/unlicense/), see the
+[LICENSE](LICENSE) file for more info.
