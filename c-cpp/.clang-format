@@ -1,4 +1,5 @@
 ﻿---
+AccessModifierOffset: '-4'
 AllowShortBlocksOnASingleLine: 'false'
 AllowShortCaseLabelsOnASingleLine: 'false'
 AlwaysBreakTemplateDeclarations: 'Yes'
